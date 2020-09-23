@@ -12,3 +12,4 @@
 
 ## Literatura:
 - "DeepWalk: Online Learning of Social Representations", Bryan Perozzi, Rami Al-Rfou, Steven Skiena
+- "https://grouplens.org/datasets/movielens/100k/"
