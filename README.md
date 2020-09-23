@@ -4,7 +4,7 @@ DeepWalk [[1]](#1) je algoritam za određivanje niskodimenzionih reprezentacija
 čvorova grafa koje enkodiraju informacije o sličnosti čvorova i njihovim
 međusobnim odnosima. Zasnovan je na slučajnim šetnjama i Word2Vec modelu za
 određivanje latentnih reprezentacija. Prikazana je njegova primena u sistemu
-predviđanja korisničkih ocena filmova na *MovieLens 100K* [[2]](#2)skupu
+predviđanja korisničkih ocena filmova na *MovieLens 100K* [[2]](#2) skupu
 podataka.
 
 ## Koraci
